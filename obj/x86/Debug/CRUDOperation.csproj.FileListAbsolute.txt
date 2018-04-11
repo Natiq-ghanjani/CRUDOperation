@@ -1,0 +1,10 @@
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\CRUDOperation.Properties.Resources.resources
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\bin\Debug\CRUDOperation.exe
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\bin\Debug\CRUDOperation.pdb
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\CRUDOperation.exe
+c:\users\office\documents\visual studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\CRUDOperation.pdb
+C:\Users\Office\Documents\Visual Studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\CRUDOperation.Form2.resources
+C:\Users\Office\Documents\Visual Studio 2010\Projects\CRUDOperation\CRUDOperation\obj\x86\Debug\CRUDOperation.Login.resources
